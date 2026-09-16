@@ -1,6 +1,7 @@
-# kho-bai-tap
 ## Giấy phép
 
-Dự án được phát hành theo giấy phép [MIT License](LICENSE).
+Mã nguồn trong kho này được phát hành
+theo [Giấy phép MIT](LICENSE).
 
-Copyright (c) 2026 Lê Thành Tiến
+SPDX-License-Identifier: MIT
+
